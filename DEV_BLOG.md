@@ -19,3 +19,24 @@ the charger and tried a different charger (luckily, it uses USB C to charge so I
 I might have to take my computer to the shop before I can get this stupid React Native template to run on my phone.
 
 Oh well, time to commit this monstrosity before I lose what little work I've done so far.
+
+## Day 2
+I took my laptop to the computer shop and they couldn't fix it. I was getting ready to send my laptop in to Lenovo
+to get it fixed or replaced (it's still under warranty luckily) when I decided to ask AI if there's anything I can
+try first. To my surprise, there was. I simply unplugged the laptop, held the power button for a minute, and plugged it
+back in, and viola, it started charging again! Now that I've fixed my laptop, it's time to fix this React Native 
+template. 
+
+When I try `npm install`, I get a ton of errors. Normally, at this point, I'd just quit unless this was for school/work,
+but since I'm writing this dev blog, I'll give it one more day. What kind of mobile app developer am I if I can't even
+get React Native to work again after successfully using it multiple times in the past?
+
+I found out I can manually install the Expo Go update that's not on Google Play yet, so I did that and then re-installed
+SDK 55 for React Native. However, that failed, so I tried again after reinstalling a couple packages, and it STILL 
+doesn't work; I got more errors. Time for more AI... The AI told me to install Android Studio because I don't have the
+native SDK installed and Android Studio packages everything for me. Fair point; I don't have Android Studio like I did
+last time I used React Native. I'll try that next. If this doesn't work, I give up on React Native for now.
+
+After 5 minutes of building and 99% progress, the build failed. React Native is not for me anymore. I'll try it again
+in a few months maybe. I'll keep this public on GitHub so others can read about my struggles and maybe learn from my 
+mistakes somehow. And also so I can vent about this project.
