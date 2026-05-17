@@ -20,12 +20,12 @@ I might have to take my computer to the shop before I can get this stupid React 
 
 Oh well, time to commit this monstrosity before I lose what little work I've done so far.
 
-## Day 2
-I took my laptop to the computer shop and they couldn't fix it. I was getting ready to send my laptop in to Lenovo
-to get it fixed or replaced (it's still under warranty luckily) when I decided to ask AI if there's anything I can
-try first. To my surprise, there was. I simply unplugged the laptop, held the power button for a minute, and plugged it
-back in, and viola, it started charging again! Now that I've fixed my laptop, it's time to fix this React Native 
-template. 
+## Day 2 | Part 1
+What a run of bad luck yesterday way! Anyway, I took my laptop to the computer shop and they couldn't fix it. I was 
+getting ready to send my laptop in to Lenovo to get it fixed or replaced (it's still under warranty luckily) when I 
+decided to ask AI if there's anything I can try first. To my surprise, there was. I simply unplugged the laptop, held 
+the power button for a minute, and plugged it back in, and viola, it started charging again! Now that I've fixed my 
+laptop, it's time to fix this React Native template. 
 
 When I try `npm install`, I get a ton of errors. Normally, at this point, I'd just quit unless this was for school/work,
 but since I'm writing this dev blog, I'll give it one more day. What kind of mobile app developer am I if I can't even
@@ -40,3 +40,15 @@ last time I used React Native. I'll try that next. If this doesn't work, I give 
 After 5 minutes of building and 99% progress, the build failed. React Native is not for me anymore. I'll try it again
 in a few months maybe. I'll keep this public on GitHub so others can read about my struggles and maybe learn from my 
 mistakes somehow. And also so I can vent about this project.
+
+## Day 2 | Part 2
+
+I vented to AI about this, and it gave me an idea. I'll try one last fix attempt before I give up for good. It appears
+that I have the wrong version of one of my packages. I need to update the package and rebuild again. If this doesn't
+work, I know what I want to work on instead of this project, so that's reassuring.
+
+And after 8 and a half minutes...  
+**IT FINALLY WORKED!**  
+The first thing I notice is that they've changed the template significantly. It no longer
+looks slightly dated. It looks very modern, I quite like it! 
+Well, I feel like calling it a day now. I'll continue at another time.
